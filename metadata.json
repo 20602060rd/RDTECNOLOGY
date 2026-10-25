@@ -1,0 +1,8 @@
+{
+  "name": "Repara Lavadoras - Manual Técnico y Diagnóstico",
+  "description": "Manual técnico inteligente y sistema de diagnóstico profesional para reparación de lavadoras Whirlpool, LG, Samsung, Mabe, Haceb y más.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
